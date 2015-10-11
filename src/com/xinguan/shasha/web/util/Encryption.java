@@ -19,6 +19,6 @@ public class Encryption {
 			e.printStackTrace();
 		}
 		
-		return null;
+		return "";
 	}
 }
